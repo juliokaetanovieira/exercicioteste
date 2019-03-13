@@ -3,3 +3,21 @@ Author: JulioVieira <juliokaetanovieira@gmail.com>
 Date:   Wed Mar 13 00:21:19 2019 -0300
 
     Criado nova alteracao de status
+
+commit a8f65bda0da632945e00e6ebf799685ac9e60170 (HEAD -> master, origin/master)
+Author: Julio Caetano Vieira <47762385+juliokaetanovieira@users.noreply.github.com>
+Date:   Wed Mar 13 00:42:12 2019 -0300
+
+    README.md
+
+commit e89a4bf616e0767be565b7965854db81452161ba
+Author: JulioVieira <juliokaetanovieira@gmail.com>
+Date:   Wed Mar 13 00:26:52 2019 -0300
+
+    Criado novo status de moficado
+
+commit 2e5f07ea5218bcb33142e6575dad319cd54174e0
+Author: JulioVieira <juliokaetanovieira@gmail.com>
+Date:   Wed Mar 13 00:21:19 2019 -0300
+
+    Criado nova alteracao de status
