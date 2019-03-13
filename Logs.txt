@@ -1,0 +1,5 @@
+commit 2e5f07ea5218bcb33142e6575dad319cd54174e0 (HEAD -> master)
+Author: JulioVieira <juliokaetanovieira@gmail.com>
+Date:   Wed Mar 13 00:21:19 2019 -0300
+
+    Criado nova alteracao de status
